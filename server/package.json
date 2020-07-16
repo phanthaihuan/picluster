@@ -11,7 +11,7 @@
     "express": "",
     "fs": "",
     "line-reader": "",
-    "lodash": "^4.17.12",
+    "lodash": "^4.17.19",
     "moment": "",
     "multer": "^1.3.0",
     "node-gyp": "",
